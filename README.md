@@ -11,7 +11,7 @@ Your task is to create a simple class called SnakesLadders. The test cases will 
 
 ## The Board
 
-![Snakes and Ladders, board Image()
+![Snakes and Ladders, board Image](boardImage.png)
 
 ## Rules
 
